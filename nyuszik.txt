@@ -1,0 +1,14 @@
+Nyusznyusz,Barátfa,6
+Muszika,Barátfa,6
+Pelda1,Lovas,4
+Pelda2,Szula,7
+Kerlek Legyel Jo,Kígyós-patak,3
+Pelda5,Malom telek,4
+Pelda6,Páskom,4
+Pelda7,Páskom,5
+Legyszi,Páskom,1
+Pelda9,Káposztás kert,3
+Pelda10,Szula,2
+Pelda11,Malom telek,3
+Pelda12,Lovas,3
+<3,Lovas,4

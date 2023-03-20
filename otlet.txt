@@ -1,0 +1,8 @@
+Bead átalakítás:
+Új függvényt írni: 
+-forkolás
+-nyitni két pipeot, a szülő a két gyereknek küldi el a nyuszikat
+-iffel dönteni el, melyik helyről valók
+-ezekhez rendelünk egy random számot, a tojásokat
+-ezeket visszaküldjük a szülőhöz
+-ott egy max keresés megadja melyik nyuszi győz
