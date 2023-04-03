@@ -19,3 +19,6 @@ When we run the program fron console we have to add a command.
 - --help Help command.
 
 ### Functionality
+The code opens up the pipes and throws error when it does not succeed. 
+Then it forks the parent and children elements. The locations are sorted into two groups, so that's why there's two children, the child uses the pipes depending on the location.
+Basically it just goes through the given array (the file with the bunnies) and decides which pipe to use to transfer data between the parent and the children.
